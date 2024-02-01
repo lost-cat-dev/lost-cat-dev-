@@ -1,2 +1,2 @@
-# /help I don't have time
-Coming soon
+# LostCatDev site
+learning react and typescript...
